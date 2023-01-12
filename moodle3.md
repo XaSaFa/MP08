@@ -84,3 +84,7 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 - Migrareu tota la informació d'un dels dos Moodles actuals (escolliu un) a la màquina ubuntu server nova.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
 
+# Recursos per a fer vídeos:
+
+- [Editor Kdenlive](https://kdenlive.org/es/).
+- [Editor online de vídeo Cliupchamphttps://clipchamp.com/en/
