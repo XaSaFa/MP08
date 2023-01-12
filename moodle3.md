@@ -10,15 +10,78 @@ També podem fer còpies de seguretat únicament de cursos per passar-los a un a
 
 ## Còpia de seguretat d'un curs:
 
+![image](https://user-images.githubusercontent.com/110727546/212052894-c02acab1-3004-4a59-be6d-480c5457bb79.png)
+
 Les còpies de seguretat d'un únic curs es fan des de'l mateix Moodle.
 
-### Tutorial:
+Serveixen per duplicar cursos, pasar informació i recursos d'un curs a un altre o migrar un curs a un nou servidor de Moodle.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rH6DJ_lbMm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Tutorial a Moodle](https://docs.moodle.org/all/es/Respaldo_del_curso)
+[Tutorial a Youtube](https://youtu.be/rH6DJ_lbMm0)
 
-## Quines dades hem de preservar?
+## Còpia de seguretat de tot Moodle:
 
-Les dades que s'utilitzen al servei Moodle són bastant complexes. Així que separarem els casos i la informació segons el que vulguem fer.
+Si volem migrar el servei o recuperar-lo hem de pensar quina informació estem utilitzant a Moodle i on està guardada.
+
+### Pensem...
+
+![image](https://user-images.githubusercontent.com/110727546/212053271-9d1305d7-af49-41a4-b6d5-846816c6bb69.png)
 
 
-**cursos**: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Directori de Moodle: 
+
+El directori amb els fitxers necessaris per què funcioni Moodle. A la nostra pràctica és a /var/www/html/moodle probablement.
+
+### Directori de dades:
+
+El directori on es guarden fitxers pujats pels usuaris/es de Moodle, com les pràctiques. A la nostra pràctica probablement estarà a /home/moodledata.
+
+### Base de dades:
+
+A la base de dades estaran guardades  les dades de cursos, usuaris, puntuacions... 
+
+La forma de fer backup de la base de dades canviarà segons la bbdd que utilitzem.
+
+### Possar-ho tot al lloc una altra vegada:
+
+Després de recuperar tota aquesta informació caldrà ficar-la al nou servidor i comprovar que tot funciona bé.
+
+### Tutorial de migració de Moodle:
+
+[Tutorial a Moodle](https://docs.moodle.org/all/es/Migraci%C3%B3n_de_Moodle)
+
+# Activitat:
+
+L'activitat, que realitzareu per parelles, es divideix en dues pràctiques diferents, cadascuna amb el mateix valor:
+
+## A1 - Backup i restauració de curs:
+
+- Fareu una còpia de seguretat del vostre curs elaborat a Moodle.
+- Passareu el fitxer al server del company/a de grup.
+- Recuperareu el curs al seu Moodle.
+- Comprovareu que tot funciona correctament.
+- Aquest procés serà recíproc entre els dos companys/es de grup.
+- Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
+
+## A2 - Migració de Moodle:
+
+- Per aquesta pràctica necessitareu un servidor ubuntu net que serà el receptor del Moodle.
+- Migrareu tota la informació d'un dels dos Moodles actuals (escolliu un) a la màquina ubuntu server nova.
+- Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
+
