@@ -37,6 +37,12 @@
 - [Introducció a HTML](introuf5.md)
 - [Links](links.md)
 
+## Activitats:
+
+- [Activitats HTML 1](activitats1.md)
+- [Practicar HTML 1](practicar1.md)
+
 ## Recursos:
 
 - [Recursos - W3Schools (tutorials)](https://www.w3schools.com/)
+
