@@ -28,6 +28,14 @@
 
 # UF5 - fonaments d’HTML i fulls d’estils.
 
+## Presentació:
+
 - [Curriculum - Presentació](uf5.md)
+
+## HTML:
+
 - [Introducció a HTML](introuf5.md)
+
+## Recursos:
+
 - [Recursos - W3Schools (tutorials)](https://www.w3schools.com/)
