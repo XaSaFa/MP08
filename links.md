@@ -52,15 +52,3 @@ Per fer això hem de "marcar" un tag amb un atribut id que tingui un nom, per ex
 I el link serà així:
 
 ``` <a href="#seccio1">Anar a secció 1</a> ```
-
-
-
-## Practicar HTML:
-
-- [Atributs de tag](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1)
-- [Paràgrafs](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_paragraphs1)
-- [Formatejar text](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_formatting1)
-- [Comentar HTML](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_comments1)
-- 
-
-
