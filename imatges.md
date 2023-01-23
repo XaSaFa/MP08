@@ -17,13 +17,13 @@ Els atributs del tag són:
   - width: Defineix l'amplada de la imatge.
   - height: Defineix l'alçada de la imatge.
 
-La recomanació és no utilitzar els atributs width i height i utilitzar millor CSS.
+La recomanació és no utilitzar els atributs width i height i utilitzar millor CSS (tercer exemple).
 
 Exemples:
 
-```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre"/>```
-```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre" width= 100 height = 100 />```
-```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre" style="width:48px;height:48px;" />```
+```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre">```
+```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre" width= 100 height = 100>```
+```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre" style="width:48px;height:48px;">```
 
 [Practiques](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images1)
 
