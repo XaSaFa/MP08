@@ -52,3 +52,7 @@ Per fer això hem de "marcar" un tag amb un atribut id que tingui un nom, per ex
 I el link serà així:
 
 ``` <a href="#seccio1">Anar a secció 1</a> ```
+
+### Practicar amb links:
+
+[Practica](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links1)
