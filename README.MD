@@ -36,7 +36,7 @@
 
 - [Introducció a HTML](introuf5.md)
 - [Links](links.md)
-- [Imatges](imatge.md)
+- [Imatges](imatges.md)
 - [Mapes d'imatge](mapa.md)
 
 ## Activitats:
