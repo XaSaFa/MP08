@@ -6,7 +6,9 @@ Els tags imatges mostren una imatge dins de la pàgina web.
 
 El tag utilitzat es ``` <img> ```
 
-Els atribts del tag són:
+El tag imatge no necessita tag de tancament.
+
+Els atributs del tag són:
 
 - Principals:
   - src: URL de la imatge, en format relatiu o absolut.
@@ -14,3 +16,14 @@ Els atribts del tag són:
 - Addicionals:
   - width: Defineix l'amplada de la imatge.
   - height: Defineix l'alçada de la imatge.
+
+La recomanació és no utilitzar els atributs width i height i utilitzar millor CSS.
+
+Exemples:
+
+```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre"/>```
+```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre" width= 100 height = 100 />```
+```<img src="https://insebre.cat/images/index/logo_iesebre_2010_11.png" alt="logo iesebre" style="width:48px;height:48px;" />```
+
+[Practiques](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images1)
+
