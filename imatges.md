@@ -6,7 +6,7 @@ Els tags imatges mostren una imatge dins de la pàgina web.
 
 El tag utilitzat es ``` <img> ```
 
-El tag imatge no necessita tag de tancament.
+El tag imatge **no necessita tag de tancament**.
 
 Els atributs del tag són:
 
