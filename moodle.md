@@ -28,7 +28,7 @@
 - Com a alumne/a contesta la consulta.
 - Com a professor mostra les contestacions de la consulta.
 
-# Seguretat del lloc (10%):
+# Seguretat del lloc (20%):
 
 ![image](https://user-images.githubusercontent.com/110727546/207085138-c3cbcb81-edee-45a1-8b11-daf20093e56d.png)
 
