@@ -1,4 +1,4 @@
-# Personalitzar perfil:
+# Personalitzar perfil (10%):
 
 ![image](https://user-images.githubusercontent.com/110727546/207070729-91000a9b-782a-43ed-8f50-344d9db3ad3f.png)
 
@@ -9,7 +9,7 @@
 - Canvia el primer dia de la setmana del calendari a Diumenge.
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
-# Cursos:
+# Cursos (40):
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
 - Inscriu a tots els alumnes al curs.
@@ -28,7 +28,7 @@
 - Com a alumne/a contesta la consulta.
 - Com a professor mostra les contestacions de la consulta.
 
-# Seguretat del lloc:
+# Seguretat del lloc (10%):
 
 ![image](https://user-images.githubusercontent.com/110727546/207085138-c3cbcb81-edee-45a1-8b11-daf20093e56d.png)
 
@@ -39,11 +39,11 @@
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
-# Plugins:
+# Plugins (10%):
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
 
-# Personalització del tauler d'usuaris:
+# Personalització del tauler d'usuaris (10%):
 
 ![image](https://user-images.githubusercontent.com/110727546/207088651-6131a2b1-20c7-4a9f-b50a-317295ce70f1.png)
 
@@ -52,7 +52,7 @@ Canvia el tauler d'usuaris.
 - Afegeix a dalt de tot "Cursos visitats recentment".
 - Afegeix a baix de tot "Usuaris en línia".
 
-# Canvia el tema del Moodle:
+# Canvia el tema del Moodle (10%):
 
 Vigila que sigui un tema suportat per la teva versió de Moodle:
 
