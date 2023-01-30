@@ -44,6 +44,8 @@
 ## Activitats:
 
 - [Activitats HTML 1](activitats1.md)
+- [Activitats HTML 2](activitats2.md)
+
 - [Practicar HTML 1](practicar1.md)
 
 ## Recursos:
