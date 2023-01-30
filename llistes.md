@@ -95,7 +95,23 @@ Podem anidar llistes dins de llistes:
 
 ![image](https://user-images.githubusercontent.com/110727546/215459046-7a7b1c47-d2e3-4962-b25d-cb9de03b2537.png)
 
-Els atributs de les llistes desordenades només es poden canviar mitjançant CSS.
+Els atributs de les llistes desordenades es poden canviar mitjançant CSS.
+
+També podem canviar l'atribut type per canviar la forma del indicador d'element entre: circle, disc, square o none.
+
+Exemple:
+
+```
+<ul type="circle">  
+ <li>HTML</li>  
+ <li>Java</li>  
+ <li>JavaScript</li>  
+ <li>SQL</li>  
+</ul>  
+```
+
+![image](https://user-images.githubusercontent.com/110727546/215499015-0b9a19ef-a753-4703-a997-b450ea9faf86.png)
+
 
 ### Llista de definició:
 
