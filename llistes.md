@@ -122,6 +122,9 @@ Exemple:
 
 ![image](https://user-images.githubusercontent.com/110727546/215460069-0bdfcf3d-1369-4a86-8f1b-2b3f58f4d7b1.png)
 
+## Practicar:
+
+[Fes aquests exercicis](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_lists1)
 
 
 
