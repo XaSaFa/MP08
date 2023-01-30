@@ -38,6 +38,7 @@
 - [Links](links.md)
 - [Imatges](imatges.md)
 - [Mapes d'imatge](mapa.md)
+- [Llistes](llistes.md)
 
 ## Activitats:
 
