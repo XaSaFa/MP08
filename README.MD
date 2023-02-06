@@ -48,6 +48,16 @@
 
 - [Practicar HTML 1](practicar1.md)
 
+## CSS:
+
+- [Utilitzar CSS](css1.md)
+- [Color](color.md)
+- [Style (CSS inline)](style.md)
+
+## Activitats:
+
+- [Activitats CSS 1 - color](activitatsCSS1.md)
+
 ## Recursos:
 
 - [Recursos - W3Schools (tutorials)](https://www.w3schools.com/)
