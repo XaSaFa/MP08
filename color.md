@@ -49,3 +49,41 @@ També podem generar altres colors modificant els tres colors primaris.
 Existeixen molts altres models de catalogació dels colors, com per exemple HSL (Hue, Saturation, Lightness).
 
 [Model HSL](https://es.wikipedia.org/wiki/Modelo_de_color_HSL)
+
+## Color de text:
+
+El color del text s'indica amb la propietat color, per exemple: 
+
+```
+<p style="color:blue;">color de text blau</p>
+```
+
+## Color de fons:
+
+El color de fons d'un element, com un paràgraf o altres tags que veurem més endavant es canvia amb la propietat background-color, per exemple:
+
+```
+<p style="color:blue;background-color: yellow">color de text blau i color de fons groc</p>
+```
+
+## Opacitat:
+
+Es pot regular l'opacitat d'un element (o la seva transparència) de diferents formes:
+
+- Utilitzant la propietat opacity, que va des de 0 (transparent) fins a 1 (opac).
+
+Exemple: 
+
+![image](https://user-images.githubusercontent.com/110727546/217008977-3a15475e-4ac6-48dc-80a6-d75b60f70c56.png)
+
+
+- Utilitzant RGBA (Red Green Blue Alpha), en lloc de RGB.
+
+Exemples: 50% de transparència.
+
+```
+style="background: rgb(0, 128, 0,0.5);"
+```
+
+![image](https://user-images.githubusercontent.com/110727546/217009682-8736fd7c-5ae0-45eb-b929-92a5a1d63df6.png)
+
