@@ -16,7 +16,7 @@
 
 [Pàgina de Moodle.](https://moodle.org)
 
-[Canviar contrasenya de usuari administrador de Moodle](canviContrasenyaMoodle.md)
+[Canviar contrasenya d'usuari administrador de Moodle](canviContrasenyaMoodle.md)
 
 ## Enunciats:
 
