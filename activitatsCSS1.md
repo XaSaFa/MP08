@@ -24,7 +24,7 @@ L'eina de GIMP és aquesta:
 
 ![image](https://user-images.githubusercontent.com/110727546/216937709-e48a236a-e893-4e18-bf23-f326d251c42b.png)
 
-3. Crea un web que contingui un paràgraf amb cadascun dels colors de l'arc de Sant Martí igual que a l'exemple, el color de les lletres serà negre en totes menys en el paràgraf groc, on serà negre.
+3. Crea un web que contingui un paràgraf amb cadascun dels colors de l'arc de Sant Martí igual que a l'exemple, el color de les lletres serà blanc en totes menys en el paràgraf groc, on serà negre.
 
 ![image](https://user-images.githubusercontent.com/110727546/216999413-211a1b9d-3852-479d-905c-8354b3b9443e.png)
 
