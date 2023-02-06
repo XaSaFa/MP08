@@ -58,7 +58,8 @@ Llistat de les propietats de Style: [Llistat](https://www.tutorialrepublic.com/c
 
 ## Exercicis per practicar:
 
-[https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles1)
+- [style](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles1)
+- [CSS](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css1)
 
 
 
