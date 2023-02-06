@@ -49,35 +49,3 @@ També podem generar altres colors modificant els tres colors primaris.
 Existeixen molts altres models de catalogació dels colors, com per exemple HSL (Hue, Saturation, Lightness).
 
 [Model HSL](https://es.wikipedia.org/wiki/Modelo_de_color_HSL)
-
-## Exercici:
-
-1. Recupera l'exercici de la taula amb el teu horari i fes els següents canvis:
-  - Cada mòdul tindrà un color de fons únic **definit per RGB**.
-  - El pati, hores i dies de la setmana tindran un color de fons **definit per nom**.
-
-2. Utilitzant Gimp (o alguna altra eina) identifica els colors en mode RGB de la següent imatge:
-  - Color de vestit de Super Lopez:
-  - Color de capa de Super Lopez:
-  - Color de la lletra S de Super Lopez:
-  - Color de les lletres de títol.
-    - Super:
-    - L:
-    - O:
-    - P:
-    - E:
-    - Z:
-
-![image](https://user-images.githubusercontent.com/110727546/216936849-2a980f25-3302-410d-9bbe-ba107c4975bf.png)
-
-L'eina de GIMP és aquesta:
-
-![image](https://user-images.githubusercontent.com/110727546/216937709-e48a236a-e893-4e18-bf23-f326d251c42b.png)
-
-
-
-
-
-
-
-
