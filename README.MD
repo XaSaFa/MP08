@@ -43,8 +43,9 @@
 
 ## Activitats:
 
-- [Activitats HTML 1](activitats1.md)
-- [Activitats de llistes](activitats2.md)
+- [1 - Activitats HTML variades](activitats1.md)
+- [2 - Activitats mapes d'imatges](activitatsMapesImatges.md)
+- [3 - Activitats de llistes](activitats2.md)
 
 - [Practicar HTML 1](practicar1.md)
 
@@ -56,7 +57,7 @@
 
 ## Activitats:
 
-- [Activitats CSS 1 - color](activitatsCSS1.md)
+- [4 - Activitats CSS - color](activitatsCSS1.md)
 
 ## Recursos:
 
