@@ -41,6 +41,16 @@ Podem fer que un link tingui un títol (al deixar el punter parat a sobre es mos
 
 ``` <a href="https://www.w3schools.com/html/" title="Videojuegos por Alimentos">Visitar web</a> ```
 
+### Obrir el link a la mateixa web o a una pàgina nova:
+
+Si volem obrir el link a la mateixa pàgina web afegirem l'atribut target.
+
+```target="_self"```
+
+Si el volem obrir a una nova pàgina web utilitzarem també l'atribut target:
+
+```target="_blank"```
+
 ### Link a una part del mateix document:
 
 De vegades no volem enllaçar a un nou document si no a una part del mateix document que està visitant l'usuari/a.
