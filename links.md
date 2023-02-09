@@ -21,7 +21,7 @@ Els links poden utilitzar una ruta relativa o absoluta.
 
 Si el recurs es troba a un directori, per exemple el directori imatges ho especifiquem a la ruta relativa:
 
-``` <a href="/imatges/logo.jpg">Logo</a> ```
+``` <a href="imatges/logo.jpg">Logo</a> ```
 
 ### Link a mail:
 
