@@ -40,6 +40,9 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
 
 ### Estructura d'un document HTML:
 
+![image](https://user-images.githubusercontent.com/110727546/218274745-f79c1aaf-5e35-40f0-81ad-3734de846c06.png)
+
+
 - Un document HTML està format per els tags o etiquetes.
 - Tot el document va entre els tags html i /html.
 - La etiqueta head serveix per tenir dins la meta informació de la pàgina web (informació sobre el contingut), a més del tag title que és el títol de la pàgina web.
