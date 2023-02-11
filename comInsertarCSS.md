@@ -120,6 +120,18 @@ h1 {color:red;}
 
 [Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_howto_external)
 
+## Comentaris:
+
+Els comentaris a CSS s'indiquen així:
+
+```
+<style>
+p {
+  color: red; /* Set text color to red */
+}
+</style>
+```
+
 ## Practicar:
 
 [Practica](https://www.w3schools.com/css/exercise.asp?filename=exercise_howto1)
