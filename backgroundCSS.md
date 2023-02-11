@@ -150,5 +150,31 @@ Podem indicar per CSS si volem que la imatge es quedi fixa en pantalla o que al 
 
 [Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_background-image_attachment2)
 
+### Indicar totes les propietats amb un shorthand:
 
+Per fer el codi més curt podem indicar les propietats background totes seguides amb la propietat background.
 
+Per exemple, aquest codi:
+
+```
+body {
+  background-color: #ffffff;
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+```
+
+Podem indicar-ho així:
+
+```
+body {
+  background: #ffffff url("img_tree.png") no-repeat right top;
+}
+```
+
+[Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_background_shorthand)
+
+## Practicar:
+
+[Practica](https://www.w3schools.com/css/exercise.asp?filename=exercise_background1)
