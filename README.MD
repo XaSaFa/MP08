@@ -41,7 +41,7 @@
 - [Llistes](llistes.md)
 - [Multimedia: Audio, Video, Youtube](multimedia.md)
 
-## Activitats:
+## Activitats - HTML:
 
 - [1 - Activitats HTML variades](activitats1.md)
 - [2 - Activitats mapes d'imatges](activitatsMapesImatges.md)
@@ -55,7 +55,7 @@
 - [Color](color.md)
 - [Style (CSS inline)](style.md)
 
-## Activitats:
+## Activitats - CSS:
 
 - [4 - Activitats CSS - color](activitatsCSS1.md)
 
