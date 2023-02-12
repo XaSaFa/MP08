@@ -54,6 +54,9 @@
 - [Utilitzar CSS](css1.md)
 - [Color](color.md)
 - [Style (CSS inline)](style.md)
+- [Com insertar CSS a un web](comInsertarCSS.md)
+- [Background](backgroundCSS.md)
+- [Border](borderCSS.md)
 
 ## Activitats - CSS:
 
