@@ -55,5 +55,43 @@ A l'exemple en lloc de tenir dos marges sumats de 10px, per un vaor de 20px nom�
 
 ## Padding:
 
+El padding serveix per omplir espai dins d'un element fins a la seva vora, es com farcir un element.
+
+[Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_padding_intro)
+
+Igual que amb el margin podem especificar el padding per als quatre costats o amb tres valors, dos o un.
+
+Especifiquem el padding individualment per cada costat:
+![image](https://user-images.githubusercontent.com/110727546/218314311-6cc6c4a8-1185-4427-bde2-e418fd25f995.png)
+
+Especifiquem el padding per cada costat pero a una sola línia:
+![image](https://user-images.githubusercontent.com/110727546/218314326-dd073978-8ed5-4889-8b60-2e204301a9df.png)
+
+Especifiquem el padding de top, (right i left) i bottom:
+![image](https://user-images.githubusercontent.com/110727546/218314380-ad37bcab-7976-451e-908f-485f8a2d3546.png)
+
+Especifiquem el padding de (top i bottom) i (right i left):
+![image](https://user-images.githubusercontent.com/110727546/218314412-4df24ac6-d204-4aed-8c11-96c052623042.png)
+
+Especifiquem el mateix padding pels quatre costats:
+![image](https://user-images.githubusercontent.com/110727546/218314424-227ecced-a08c-46da-a510-dd7b0399c56f.png)
+
+### Width:
+
+L'amplada d'un element inclou el que ocupa l'element en si **MÉS** el padding, així que si volem que un element tingui una amplada determinada hem de vigilar amb el padding que té assignat.
+
+[Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_padding_width)
+
+![image](https://user-images.githubusercontent.com/110727546/218314498-d79a47cb-8ae1-41f1-85aa-7d7df1d1d78b.png)
+
+Si es vol mantenir una amplada determinada sense que afecti el padding a cada element haurem d'utilitzar la propietat ```box-sizing: border-box;```
+
+[Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_padding_width2)
+
+![image](https://user-images.githubusercontent.com/110727546/218314570-070cf2ab-0d63-4433-b723-19c777961e88.png)
+
+### Practicar:
+
+[Pràctica](https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1).
 
 
