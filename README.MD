@@ -51,17 +51,20 @@
 
 ## CSS:
 
-- [Utilitzar CSS](css1.md)
-- [Color](color.md)
-- [Style (CSS inline)](style.md)
-- [Com insertar CSS a un web](comInsertarCSS.md)
-- [Background](backgroundCSS.md)
-- [Border](borderCSS.md)
-- [Margin i Padding](marginPaddingCSS.md)
+- Sessió 1:
+  - [Utilitzar CSS](css1.md)
+  - [Color](color.md)
+  - [Style (CSS inline)](style.md)
+- Sessió 2:
+  - [Com insertar CSS a un web](comInsertarCSS.md)
+  - [Background](backgroundCSS.md)
+  - [Border](borderCSS.md)
+  - [Margin i Padding](marginPaddingCSS.md)
 
 ## Activitats - CSS:
 
 - [4 - Activitats CSS - color](activitatsCSS1.md)
+- [5 - Activitats CSS - passatemps](activitatsCSS2.md)
 
 ## Recursos:
 
