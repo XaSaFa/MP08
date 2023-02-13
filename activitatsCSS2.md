@@ -1,5 +1,11 @@
 # Activitats CSS
 
+Per treure la separació entre cel·les feu servir: 
+
+```
+border-collapse: collapse;
+```
+
 1. Sudoku:
 
 Fes un Sudoku el més semblant possible al de la imatge:
