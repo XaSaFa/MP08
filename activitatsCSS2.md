@@ -1,5 +1,7 @@
 # Activitats CSS
 
+Primera entrega Activitat 1 i 2.
+
 Per treure la separació entre cel·les feu servir: 
 
 ```
