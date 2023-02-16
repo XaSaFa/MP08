@@ -204,7 +204,7 @@ h1 {
 
 ![image](https://user-images.githubusercontent.com/110727546/219409305-0d617230-9717-4525-aa77-17bde4305ce4.png)
 
-
+## [Practicar](https://www.w3schools.com/css/exercise.asp?filename=exercise_text1)
 
 
 
