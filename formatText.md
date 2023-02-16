@@ -38,3 +38,35 @@ Aquesta propietat indica el sentit de lectura del text, els valors habituals só
 - ltr (esquerra a dreta, el normal).
 - rtl (dreta a esquerra).
 
+Anirà acompanyada de la propietat unicode-bidi.
+
+Exemple:
+
+```
+p {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+```
+[Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_text_direction)
+
+#### vertical-align:
+
+Aquesta propietat permet definir l'alineament vertical del text envers de la resta d'elements.
+
+[Exemple web.](https://www.w3schools.com/css/tryit.asp?filename=trycss_vertical-align)
+
+### Text Decoration:
+
+Podem acompanyar el text de línies per sobre o per sota.
+
+#### text-decoration-line:
+
+Indica que volem acompanyar al text d'una línia de decoració, es poden convinar:
+- overline (sobre el text).
+- underline (sota el text).
+- line-throught (text ratllat).
+- none (cap).
+
+[Exemple web.](https://www.w3schools.com/css/tryit.asp?filename=trycss_text-decoration-line)
+
