@@ -34,12 +34,15 @@
 
 ## HTML:
 
-- [Introducció a HTML](introuf5.md)
-- [Links](links.md)
-- [Imatges](imatges.md)
-- [Mapes d'imatge](mapa.md)
-- [Llistes](llistes.md)
-- [Multimedia: Audio, Video, Youtube](multimedia.md)
+- Sessió 1:
+  - [Introducció a HTML](introuf5.md)
+- Sessió 2:
+  - [Links](links.md)
+  - [Imatges](imatges.md)
+  - [Mapes d'imatge](mapa.md)
+- Sessió 3:
+  - [Llistes](llistes.md)
+  - [Multimedia: Audio, Video, Youtube](multimedia.md)
 
 ## Activitats - HTML:
 
