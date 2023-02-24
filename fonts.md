@@ -1,6 +1,6 @@
 # CSS
 
-## Fonts de llestres.
+## Fonts de lletra.
 
 Les fonts de lletres ens permeten mostrar text de diferents tipus. Una font de lletres és un conjunt de dibuixos que representen cada caràcter que es vol escriure.
 
