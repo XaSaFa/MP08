@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the top navigation bar */
+nav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+nav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+  font-size:30px;
+  color:pink;
+  background-color: red;
+  background-image:url("https://stores.warhammer.com/wp-content/uploads/2020/11/4jtAGbPWOxDXUHN2.png");
+  background-size: 100px 100px;
+  padding: 25px;
+  text-align: center;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  
+}
+
+.row{
+	position: relative;
+  min-height: 100vh;
+}
+
+/* Style the footer */
+footer {
+  	background-color: orange;
+	clear: both;
+    position: relative;
+    height: 100px;
+    margin-top: -200px;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+<header>
+  <h2>World of Warhammer</h2>
+</header>
+
+<nav>
+  <a href="#">Warhammer</a>
+  <a href="#">Warhammer 40K</a>
+  <a href="#">Necromunda</a>
+</nav>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">The game <p>
+Warhammer is a tabletop wargame where two or more players compete against each other with "armies" of 25 mm – 250 mm tall heroic miniatures. The rules of the game have been published in a series of books which describe how to move miniatures around the game surface and simulate combat in a "balanced and fair" manner. Games may be played on any appropriate surface, although the standard is a 6 by 4 ft (1.8 by 1.2 m) tabletop decorated with model scenery in scale with the miniatures. Any individual miniature or group of similar miniatures in the game is called a "unit".
+
+The core game rules are supplied in a single book, with supplemental Warhammer Armies texts giving guidelines and background for army-specific rules. Movement of units about the playing surface is generally measured in inches, and units' combat performance is dictated randomly by either the roll of a 6-sided die (a 'D6') or a 6-sided 'scatter' die. The latter is often used to generate direction, commonly alongside an 'artillery' die, for cannons, stone-throwers, and other artillery. Each unit and option within the game is assigned a point value for balancing purposes. A game will commonly have armies of 750 to 3,000 points, although smaller and larger values are possible.
+  </p></div>
+  <div class="column" style="background-color:#bbb;">Lore <p>
+  Warhammer is set in a fictional universe notable for its "dark and gritty" background world, which features influences from Michael Moorcock's Elric stories, and also many historical influences.
+
+The geography of the Warhammer world closely resembles that of Earth because of manipulation by an ancient spacefaring race known as the Old Ones. This mysterious and powerful race visited the Warhammer World in the distant past. Establishing an outpost, they set about manipulating the geography and biosphere of the planet. With the assistance of their Slann servants, they moved the planet's orbit closer to its sun, and arranged the continents to their liking.
+  </p></div>
+  <div class="column" style="background-color:#ccc;">Price</div>
+</div>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
