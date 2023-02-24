@@ -63,6 +63,9 @@
   - [Background](backgroundCSS.md)
   - [Border](borderCSS.md)
   - [Margin i Padding](marginPaddingCSS.md)
+- Sessió 3:
+  - [Format de text](formatText.md)
+  - [Fonts de lletra](fonts.md)
 
 ## Activitats - CSS:
 
