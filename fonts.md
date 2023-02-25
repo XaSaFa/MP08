@@ -67,5 +67,7 @@ p.oblique {
 
 ![image](https://user-images.githubusercontent.com/110727546/219418661-95f0ca6a-99bf-4665-a2a5-1a4f09d72c6c.png)
 
+## Practicar
 
+[Practicar](https://www.w3schools.com/css/exercise.asp?filename=exercise_font1)
 
