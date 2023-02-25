@@ -66,11 +66,13 @@
 - Sessió 3:
   - [Format de text](formatText.md)
   - [Fonts de lletra](fonts.md)
+  - [Float i Clear](floatClear.md)
 
 ## Activitats - CSS:
 
 - [4 - Activitats CSS - color](activitatsCSS1.md)
 - [5 - Activitats CSS - passatemps](activitatsCSS2.md)
+- [6 - Activitats CSS](activitatsCSS3.md)
 
 ## Recursos:
 
