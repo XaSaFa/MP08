@@ -70,6 +70,7 @@
 - Sessió 4:
   - [Transformacions 2D](https://www.w3schools.com/css/css3_2dtransforms.asp)
   - [Transicions](https://www.w3schools.com/css/css3_transitions.asp)
+  - [Exemple transicions](transicio.md)
 
 ## Activitats - CSS:
 
