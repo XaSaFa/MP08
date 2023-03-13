@@ -83,3 +83,14 @@
 
 - [Recursos - W3Schools (tutorials)](https://www.w3schools.com/)
 
+## BOOTSTRAP
+
+- [Introducció](bootstrap1.md)
+
+## Recursos:
+
+- [Pàgines amb exemples](bootstrap2.md)
+
+## Activitats:
+
+- [Pàgina web Bootstrap lliure](https://github.com/XaSaFa/MP08/blob/main/exerciciBootstrap1.md)
