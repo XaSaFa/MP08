@@ -93,4 +93,4 @@
 
 ## Activitats:
 
-- [Pàgina web Bootstrap lliure](https://github.com/XaSaFa/MP08/blob/main/exerciciBootstrap1.md)
+- [Activitat 8 - Pàgina web Bootstrap lliure](https://github.com/XaSaFa/MP08/blob/main/exerciciBootstrap1.md)
