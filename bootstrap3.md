@@ -138,6 +138,7 @@ El sistema de grid ens deixa ordenar elements div per fil·les i columnes:
 </div>
 ```
 
+[Exemples editables](https://www.w3schools.com/bootstrap5/bootstrap_grid_examples.php)
 [Exemples](https://getbootstrap.com/docs/5.0/layout/grid/)
 
 
