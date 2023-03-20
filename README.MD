@@ -98,3 +98,7 @@
 ## AOS
 
 [Utilitzar AOS](aos.md)
+
+## Activitats:
+
+- Activitat 9 - Torna a entregar l'activitat de Bootstrap però aplicant 5 efectes diferents com a mínim al web.
