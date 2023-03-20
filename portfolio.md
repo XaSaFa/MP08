@@ -30,7 +30,10 @@ Un portfolio sol tenir un mínim de seccions:
   - Indiqueu els preus de cada servei aplicant la tècnica "El Bueno, El Feo i el Malo".
   ![image](https://user-images.githubusercontent.com/110727546/226438363-797c2f84-b4b4-4507-8fdd-5ca813a754be.png)
   
-  
+![image](https://user-images.githubusercontent.com/110727546/226440500-13ee218d-f06d-4c62-b7fa-849b89bffecd.png)
+
+![image](https://user-images.githubusercontent.com/110727546/226440560-c8f06c71-3ecd-40c7-9bda-dce650e2429d.png)
+
 - Testimonis: Clients amb els que has treballat ja i que diuen com ha sigut la seva experiència treballant amb tu.
 
 ![image](https://user-images.githubusercontent.com/110727546/226439775-b95cc70c-d680-455b-a749-24b0076e62b9.png)
@@ -51,4 +54,19 @@ Un portfolio sol tenir un mínim de seccions:
 
 - [Exemples portfolios Bootstrap](https://bootstrapmade.com/bootstrap-portfolio-templates/)
 - [Exemples testimonials](https://freefrontend.com/bootstrap-testimonials/)
-- 
+
+
+## A entregar:
+
+- Haureu de fer el vostre propi portfolio utilitzant Bootstrap i AOS.
+- Incloure les seccions anteriors.
+- Es valorarà:
+  - Que estiguin totes les seccions.
+  - El realisme de la informació.
+  - Els enllaços del Portfolio als projectes (pràctiques) pujats al vostre github (públics).
+  - Disseny (colors, fotografíes escollides, ...).
+  - Sense faltes d'ortografia.
+  - Testimonis de companys/es i professors/res.
+  - Animacions adients.
+
+
