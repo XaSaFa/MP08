@@ -80,7 +80,7 @@
 - [5 - Activitats CSS - passatemps](activitatsCSS2.md)
 - [6 - Activitats CSS](activitatsCSS3.md)
 - [7 - Activitats CSS - transformacions](activitatsCSS4.md)
-- [8 ]
+- [10 - Activitat CSS - animacions](ActivitatAnimacions.md)
 
 ## Recursos:
 
