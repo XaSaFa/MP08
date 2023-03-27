@@ -71,6 +71,8 @@
   - [Transformacions 2D](https://www.w3schools.com/css/css3_2dtransforms.asp)
   - [Transicions](https://www.w3schools.com/css/css3_transitions.asp)
   - [Exemple transicions](transicio.md)
+- Sessió 5:
+  - [Animacions](animacions.md)
 
 ## Activitats - CSS:
 
@@ -78,6 +80,7 @@
 - [5 - Activitats CSS - passatemps](activitatsCSS2.md)
 - [6 - Activitats CSS](activitatsCSS3.md)
 - [7 - Activitats CSS - transformacions](activitatsCSS4.md)
+- [8 ]
 
 ## Recursos:
 
