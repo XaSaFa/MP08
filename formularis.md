@@ -40,7 +40,7 @@ Els elements del formulari tenen una etiqueta pròpia anomenada input que pot se
 
 Veurem alguns dels més comuns a continuació.
 
-### ⋆ text
+### ⋆ text ⋆
 
 És un requadre que serveix per escriure text.
 
@@ -48,7 +48,7 @@ Veurem alguns dels més comuns a continuació.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_text)
 
-### password
+### ⋆ password ⋆
 
 És un requadre de text on no es veu el text introduït.
 
@@ -56,7 +56,7 @@ Veurem alguns dels més comuns a continuació.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_password)
 
-### radio
+### ⋆ radio ⋆
 
 Es tracta d'un conjunt d'elements entre els quals només es pot seleccionar una opció
 
@@ -66,7 +66,7 @@ Es tracta d'un conjunt d'elements entre els quals només es pot seleccionar una 
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_radio)
 
-### checkbox
+### ⋆ checkbox ⋆
 
 Es tracta d'un requadre que té dos possibles valors: activat o desactivat.
 
@@ -76,7 +76,7 @@ Quan un checkbox està actiu passa la variable "name" amb el seu valor "value".
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_checkbox2)
 
-### color
+### ⋆ color ⋆
 
 Serveix per escollir un color.
 
@@ -84,7 +84,7 @@ Serveix per escollir un color.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_color)
 
-### date
+### ⋆ date ⋆
 
 Serveixen per seleccionar una data.
 
@@ -98,7 +98,7 @@ Podem indicar que hi ha una data mínima i/o màxima entre les possibles opcions
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_date_max_min)
 
-### time
+### ⋆ time ⋆
 
 Serveix per introduir una hora.
 
@@ -106,7 +106,7 @@ Serveix per introduir una hora.
 
 [Exemple web.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_time)
 
-### datetime-local
+### ⋆ datetime-local ⋆
 
 Permet introduir data i hora.
 
@@ -114,7 +114,7 @@ Permet introduir data i hora.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_datetime-local)
 
-### email
+### ⋆ email ⋆
 
 Permet introduir un mail, fa una mínima comprovació del text introduït.
 
@@ -123,7 +123,7 @@ Permet introduir un mail, fa una mínima comprovació del text introduït.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_email)
 
-### file
+### ⋆ file ⋆
 
 Permet seleccionar un fitxer de l'equip (normalment per pujar-lo a una aplicació).
 
@@ -131,7 +131,7 @@ Permet seleccionar un fitxer de l'equip (normalment per pujar-lo a una aplicaci�
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_file)
 
-### number
+### ⋆ number ⋆
 
 Permet introduir números en un requadre.
 
@@ -141,7 +141,7 @@ Pot tenir un valor mínim i màxim de forma opcional.
 
 [Exemple web.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_number)
 
-### range
+### ⋆ range ⋆
 
 Permet escollir un número d'entre un rang de valors.
 
@@ -149,7 +149,7 @@ Permet escollir un número d'entre un rang de valors.
 
 [Exemple web.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_range)
 
-### tel
+### ⋆ tel ⋆
 
 És un requadre on es poden introduir números en el format especificat.
 
@@ -157,7 +157,7 @@ Permet escollir un número d'entre un rang de valors.
 
 [Exemple web.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_tel)
 
-### button
+### ⋆ button ⋆
 
 Es tracta d'un botó.
 
@@ -165,7 +165,7 @@ Es tracta d'un botó.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_button)
 
-### reset
+### ⋆ reset ⋆ 
 
 És un botó que esborra tot el que s'ha introduït a un formulari.
 
@@ -173,7 +173,7 @@ Es tracta d'un botó.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_reset)
 
-### submit
+### ⋆ submit ⋆
 
 És un botó que envia els valors introduïts al formulari a un destí, com per exemple una pàgina PHP.
 
@@ -181,7 +181,7 @@ Es tracta d'un botó.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_reset)
 
-## Practicar
+## ⋆ Practicar ⋆ 
 
 [Exercicis web.](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_form_input_types1)
 
