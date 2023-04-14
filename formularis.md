@@ -40,7 +40,7 @@ Els elements del formulari tenen una etiqueta pròpia anomenada input que pot se
 
 Veurem alguns dels més comuns a continuació.
 
-### text
+### ⋆ text
 
 És un requadre que serveix per escriure text.
 
