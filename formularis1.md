@@ -76,6 +76,28 @@ Quan un checkbox està actiu passa la variable "name" amb el seu valor "value".
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_checkbox2)
 
+### ⋆ list ⋆
+
+List permet escollir un valors d'entre una llista.
+
+![image](https://user-images.githubusercontent.com/110727546/232077104-3a369e18-2487-4361-b229-92448f8e078d.png)
+
+Cada valor posible estarà dins d'un element de tipus option:
+
+```
+<input list="browsers" name="browser">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+```
+
+[Exemple web.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_datalist)
+
+
 ### ⋆ color ⋆
 
 Serveix per escollir un color.
