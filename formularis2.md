@@ -109,3 +109,34 @@ L'atribut placeholder és un text que està dins de l'element input per indicar 
 ```
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_input_placeholder)
+
+Placeholder funciona amb els elements: text, search, url, tel, email, and password.
+
+### ⋆ required ⋆
+
+Aquest atribut indica que és obligatori posar un valor a l'element.
+
+![image](https://user-images.githubusercontent.com/110727546/232074027-24175ca8-ec7a-4005-8ea3-e176debc1c55.png)
+
+```
+<input type="text" id="username" name="username" required>
+```
+
+[Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_input_required)
+
+Required funciona amb els elements: text, search, url, tel, email, password, date pickers, number, checkbox, radio, and file.
+
+### ⋆ step ⋆
+
+Step serveix per indicar els increments que es poden entrar a un element, per exemple de tipus numèric.
+
+```
+<input type="number" id="points" name="points" step="3">
+```
+
+[Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_input_step)
+
+
+### Pràctica
+
+[Exercicis web](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_form_attributes1)
