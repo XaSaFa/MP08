@@ -203,6 +203,21 @@ Es tracta d'un botó.
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_reset)
 
+## ⋆ textarea ⋆
+
+L'element textarea és un requadre de text gran que permet introduir textos llargs.
+
+![image](https://user-images.githubusercontent.com/110727546/232080401-50f2d119-6ab1-4405-8b3f-675f274b4d18.png)
+
+S'indiquen les files (rows) i columnes (cols).
+
+```
+<textarea id="text" name="text" rows="4" cols="50"></textarea>
+```
+
+[Exemple web.](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_textarea)
+
+
 ## ⋆ Practicar ⋆ 
 
 [Exercicis web.](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_form_input_types1)
