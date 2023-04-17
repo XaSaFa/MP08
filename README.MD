@@ -34,44 +34,48 @@
 
 ## HTML:
 
-- Sessió 1:
+- Sessió HTML 1:
   - [Introducció a HTML](introuf5.md)
-- Sessió 2:
+- Sessió HTML 2:
   - [Links](links.md)
   - [Imatges](imatges.md)
   - [Mapes d'imatge](mapa.md)
-- Sessió 3:
+- Sessió HTML 3:
   - [Llistes](llistes.md)
   - [Multimedia: Audio, Video, Youtube](multimedia.md)
+- Sessio HTML 4:
+  - [formularis 1](formularis1.md)
+  - [formularis 2](formularis1.md)
 
 ## Activitats - HTML:
 
 - [1 - Activitats HTML variades](activitats1.md)
 - [2 - Activitats mapes d'imatges](activitatsMapesImatges.md)
 - [3 - Activitats de llistes](activitats2.md)
+- [11 - Activitats de formularis](activitatsFormularis.md)
 
 - [Practicar HTML 1](practicar1.md)
 
 ## CSS:
 
-- Sessió 1:
+- Sessió CSS 1:
   - [Utilitzar CSS](css1.md)
   - [Color](color.md)
   - [Style (CSS inline)](style.md)
-- Sessió 2:
+- Sessió CSS 2:
   - [Com inserir CSS a un web](comInsertarCSS.md)
   - [Background](backgroundCSS.md)
   - [Border](borderCSS.md)
   - [Margin i Padding](marginPaddingCSS.md)
-- Sessió 3:
+- Sessió CSS 3:
   - [Format de text](formatText.md)
   - [Fonts de lletra](fonts.md)
   - [Float i Clear](floatClear.md)
-- Sessió 4:
+- Sessió CSS 4:
   - [Transformacions 2D](https://www.w3schools.com/css/css3_2dtransforms.asp)
   - [Transicions](https://www.w3schools.com/css/css3_transitions.asp)
   - [Exemple transicions](transicio.md)
-- Sessió 5:
+- Sessió CSS 5:
   - [Animacions](animacions.md)
 
 ## Activitats - CSS:
