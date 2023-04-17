@@ -45,7 +45,7 @@
   - [Multimedia: Audio, Video, Youtube](multimedia.md)
 - Sessio HTML 4:
   - [formularis 1](formularis1.md)
-  - [formularis 2](formularis1.md)
+  - [formularis 2](formularis2.md)
 
 ## Activitats - HTML:
 
