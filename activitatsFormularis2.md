@@ -10,7 +10,7 @@ L'Ajuntament del vostre poble us ha demanat que feu una pàgina web per anunciar
   - Una secció amb imatges del que es veurà a la ruta. 
   - Una secció amb el menú del dinar popular que tindrà lloc en finalitzar la marxa (a les 14:30):
     - Incloure el menú i fotos de plats del menú.
-  - Un link que digui inscri-te que vagi a un formulari d'inscripció, el formulari inclourà aquests camps obligatoris:
+  - Un link que digui "inscriu-te" que vagi a un formulari d'inscripció, el formulari inclourà aquests camps obligatoris:
     - Nom.
     - Cognoms.
     - DNI.
@@ -27,7 +27,7 @@ L'Ajuntament del vostre poble us ha demanat que feu una pàgina web per anunciar
     - Preferència sobre les postres (fruita, flam, iogurt, pastís de xocolata) és pot escollir més d'una opció.
     - Un element per pujar la foto on es vegi la transferència de pagament feta.
 
-Heu d'incloure animacions (AOD o CSS) en alguns elements de la web.
+Heu d'incloure animacions (AOD o CSS) en alguns elements de la web (mínim 3).
 
 Podeu fer servir Bootstrap si voleu.
 
