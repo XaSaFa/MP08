@@ -1,6 +1,6 @@
 ## Enunciat:
 
-L'Ajuntament del vostre poble us ha demanat que feu una pàgina web per anunciar la marxa senderista anual que tindrà lloc a la vostra localitat els dies 24 i 25 de juny a les 9:00, la pàgina constarà de:
+L'Ajuntament d'un poble us ha demanat que feu una pàgina web per anunciar la marxa senderista anual que tindrà lloc a la localitat els dies 24 i 25 de juny a les 9:00, la pàgina constarà de:
 
   - Una secció principal on s'anunciarà la Marxa senderista amb imatges relacionades, la data i l'hora i el preu (12€).
   - Una secció on s'anuncia que hi ha dues rutes possibles:
