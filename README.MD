@@ -53,6 +53,7 @@
 - [2 - Activitats mapes d'imatges](activitatsMapesImatges.md)
 - [3 - Activitats de llistes](activitats2.md)
 - [11 - Activitats de formularis](activitatsFormularis.md)
+- [12 - Activitat de formularis i Google Maps](activitatsFormularis2.md)
 
 - [Practicar HTML 1](practicar1.md)
 
