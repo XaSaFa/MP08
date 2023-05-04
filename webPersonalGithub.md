@@ -32,3 +32,32 @@ Ens demanarà iniciar sessió:
 
 ![image](https://user-images.githubusercontent.com/110727546/236171940-3d9a40bc-cd48-48e2-b982-4ed217acd00f.png)
 
+Busquem el repositori que hem creat i el clonem:
+
+![image](https://user-images.githubusercontent.com/110727546/236184810-456fa00f-3c8f-4770-8bcb-505eef0b6c98.png)
+
+![image](https://user-images.githubusercontent.com/110727546/236184914-3540fb0a-361a-44c7-ac7d-fe7d142cab21.png)
+
+L'obrim a Code:
+
+![image](https://user-images.githubusercontent.com/110727546/236185000-01f33f6f-6ebd-408f-96f5-d1c1c089a2eb.png)
+
+Generem una pàgina web de prova:
+
+![image](https://user-images.githubusercontent.com/110727546/236185675-d7e447bf-021a-4cbb-902a-ffac2207966d.png)
+
+Fem un commit dels canvis a Github Desktop:
+
+![image](https://user-images.githubusercontent.com/110727546/236185876-a042297b-4376-4e46-8aea-39e2423e72d3.png)
+
+Publiquem:
+
+![image](https://user-images.githubusercontent.com/110727546/236185978-4e6081d3-c16e-4aa6-ab72-071ea3ec421e.png)
+
+Després d'una estona els canvis fets estaran disponibles al nom de domini usuari.github.io:
+
+![image](https://user-images.githubusercontent.com/110727546/236186878-ca604b76-d658-4242-902a-6c6caa2f2dc8.png)
+
+
+
+
