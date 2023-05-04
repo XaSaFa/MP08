@@ -110,3 +110,9 @@
 ## Activitats:
 
 - Activitat 9 - Torna a entregar l'activitat de Bootstrap però aplicant 5 efectes diferents com a mínim al web.
+
+# Activitat final - Portfolio.
+
+- [Github webpages](https://pages.github.com/)
+- [Tutorial Guthub webpages](webPersonalGithub.md)
+- [Enunciat](portfolio.md)
