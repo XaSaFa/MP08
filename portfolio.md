@@ -60,6 +60,7 @@ Un portfolio sol tenir un mínim de seccions:
 
 - Haureu de fer el vostre propi portfolio utilitzant Bootstrap i AOS.
 - Incloure les seccions anteriors.
+- Pujar-ho a github webpages com a pàgina personal vostre.
 - Es valorarà:
   - Que estiguin totes les seccions.
   - El realisme de la informació.
