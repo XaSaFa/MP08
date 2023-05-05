@@ -56,7 +56,7 @@ Fent els següents canvis:
 
 ![image](https://user-images.githubusercontent.com/110727546/236473019-8fb69a14-fd6c-4b83-baa8-139b20f8fdb1.png)
 
-![image](https://user-images.githubusercontent.com/110727546/236473370-784ec917-d46d-49e8-8155-8709cd92264e.png)
+![image](https://user-images.githubusercontent.com/110727546/236475405-8f236183-a3d1-441d-98b1-f232bc0a85f1.png)
 
 10. Reiniciem servidor
 
