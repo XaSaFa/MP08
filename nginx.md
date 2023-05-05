@@ -58,6 +58,14 @@ Fent els següents canvis:
 
 ![image](https://user-images.githubusercontent.com/110727546/236475405-8f236183-a3d1-441d-98b1-f232bc0a85f1.png)
 
+Comprovem que la sintaxis del fitxer de configuració és correcta.
+
+```
+sudo nginx -t
+``` 
+
+![image](https://user-images.githubusercontent.com/110727546/236475934-00ab0bbd-28b0-4405-8c5a-14f6821b1491.png)
+
 10. Reiniciem servidor
 
 ```
