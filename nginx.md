@@ -84,4 +84,22 @@ Comprovem al navegador que funciona:
 
 ![image](https://user-images.githubusercontent.com/110727546/236473828-bddc2ce9-36fa-4168-8b2a-efe49c9fc5d2.png)
 
+12. Instal·lem MariaDB
 
+[seguiu els passos necessaris](https://dungeonofbits.com/instalacion-de-owncloud-en-linux.html)
+
+13. Instal·lem Owncloud
+
+[seguiu els passos necessaris](https://dungeonofbits.com/instalacion-de-owncloud-en-linux.html)
+
+14. Instal·lem els paquets que falten:
+
+![Captura de pantalla de 2023-05-11 15-23-19](https://github.com/XaSaFa/MP08/assets/110727546/0f275434-bd34-43a0-b06d-9b9849a3385f)
+
+15. Canvieu el fitxer de configuració de nginx a /etc/nginx/sites-available
+
+![image](https://github.com/XaSaFa/MP08/assets/110727546/1e9bd52e-c80a-447d-9810-a99858bad6b2)
+
+Ja hauria de funcionar
+
+![image](https://github.com/XaSaFa/MP08/assets/110727546/394de47e-9a62-4dfd-936e-16134a5463f8)
