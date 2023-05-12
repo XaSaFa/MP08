@@ -124,3 +124,7 @@ server {
 Ja hauria de funcionar
 
 ![image](https://github.com/XaSaFa/MP08/assets/110727546/394de47e-9a62-4dfd-936e-16134a5463f8)
+
+## Habilitar directoris locals a Owncloud
+
+[Mireu a la documentació de Owncloud](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html)
