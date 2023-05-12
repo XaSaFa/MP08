@@ -128,3 +128,16 @@ Ja hauria de funcionar
 ## Habilitar directoris locals a Owncloud
 
 [Mireu a la documentació de Owncloud](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html)
+
+Heu d'habilitar emmagatzematge extern dins de Owncloud:
+
+![image](https://github.com/XaSaFa/MP08/assets/110727546/b9cbef3e-377b-424d-96b4-20c95e52ae3f)
+
+I editar el fitxer de configuració com diu la configuració de Owncloud:
+
+![image](https://github.com/XaSaFa/MP08/assets/110727546/3597713f-69d0-4554-8278-1078acbe925d)
+
+Llavors ja podreu escollir emmagatzematge **Local**
+
+![image](https://github.com/XaSaFa/MP08/assets/110727546/7c91bfba-4268-4a1e-b1d6-bd10d3594597)
+
