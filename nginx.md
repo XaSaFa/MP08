@@ -100,6 +100,27 @@ Comprovem al navegador que funciona:
 
 ![image](https://github.com/XaSaFa/MP08/assets/110727546/1e9bd52e-c80a-447d-9810-a99858bad6b2)
 
+```
+server {
+    server_name owncloud.your_domain.com;
+    root /var/www/html/owncloud;
+
+    access_log /var/log/nginx/owncloud.your_domain-access.log;
+    error_log /var/log/nginx/owncloud.your_domain-error.log;
+
+    location / {
+        index index.php;
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php7.4-fpm.sock;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    }
+}
+```
+
 Ja hauria de funcionar
 
 ![image](https://github.com/XaSaFa/MP08/assets/110727546/394de47e-9a62-4dfd-936e-16134a5463f8)
