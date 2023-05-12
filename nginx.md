@@ -96,9 +96,8 @@ Comprovem al navegador que funciona:
 
 ![Captura de pantalla de 2023-05-11 15-23-19](https://github.com/XaSaFa/MP08/assets/110727546/0f275434-bd34-43a0-b06d-9b9849a3385f)
 
-15. Canvieu el fitxer de configuració de nginx a /etc/nginx/sites-available
+15. Canvieu el fitxer de configuració de nginx  default a /etc/nginx/sites-available
 
-![image](https://github.com/XaSaFa/MP08/assets/110727546/1e9bd52e-c80a-447d-9810-a99858bad6b2)
 
 ```
 server {
