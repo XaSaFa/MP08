@@ -26,7 +26,7 @@ Hi ha dues alternatives per a fer funcionar el servei, docker o VM:
 
 No us oblideu de penjar les captures fent que es vegi bé el cognom i explicant els passos que heu seguit i problemes que us podeu haver trovat.
 
-La data màxima d'entrega és el 31 de Desembre.
+
 
 
 
