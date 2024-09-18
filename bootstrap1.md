@@ -8,7 +8,7 @@ Existeixen diferents versions de Bootstrap, **la versió actual és la 5** de 20
 
 Per a poder utilitzar Bootstrap hem de linkar al nostre projecte els fitxers del framework, això ho podem fer de dues formes:
 
-- Descarregar els fitxers al directori del nostre projecte i enllaçar-los al nostro projecte.
+- Descarregar els fitxers al directori del nostre projecte i enllaçar-los al nostre projecte.
 - Enllaçar directament online (quins inconvenients pot tenir això?).
 
 ### Descarregar Bootstrap:
